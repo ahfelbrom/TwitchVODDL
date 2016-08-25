@@ -9,6 +9,8 @@ For now, only Windows releases are available due to the unability to test on oth
 
 I plan on trying to do a bash version for Linux/Mac in the following weeks. Or months. I don't know, it will depend on the time I have.
 
+You can download the releases in the [releases tab](https://github.com/neistuff/TwitchVODDL/releases). **Neither the batch nor the Python file work standalone!**
+
 ## Usage:
 
 * Download the latest [release](https://github.com/neistuff/TwitchVODDL/releases)
